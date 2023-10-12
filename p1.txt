@@ -5,3 +5,4 @@ then
 else
         echo "You are normal user"
 fi
+echo "done"
