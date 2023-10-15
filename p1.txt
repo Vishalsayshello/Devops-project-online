@@ -1,8 +1,2 @@
 #!/bin/bash
-if [[ $(id -un) -eq 0 ]]
-then
-	echo "you are root"
-else
-        echo "You are normal user"
-fi
-echo "done"
+echo "jai shree Ram"
